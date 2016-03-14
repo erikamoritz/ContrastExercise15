@@ -1,0 +1,21 @@
+h1 {
+  color:#00008B;
+  font-style: oblique;
+  font-family:sans-serif;
+  border-bottom: 3px solid black;
+}
+h2 {
+  border: 1px solid black;
+  color: #8B0000;
+  font-family: sans-serif;
+  padding: 10px;
+}
+ h3 {
+   font-size: 20px;
+   font-style: italic;
+   border-bottom: 1px solid black;
+   padding: 5px;
+ }
+ #contact {
+   font-style: italic;
+ }
