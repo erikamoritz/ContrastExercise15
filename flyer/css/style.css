@@ -1,0 +1,33 @@
+header {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  border: 2px solid light pink;
+  background-color: black;
+  font-weight: bold;
+  font-weight: 1000;
+}
+h2 {
+  font-style: oblique;
+  color: grey;
+  font-weight:
+
+
+}
+.column {
+float: left;
+width: 48%;
+margin: 2px;
+padding: 5px;
+border: 2px solid black;
+background-color: pink;
+}
+h3 {
+  font-size: 20px;
+  font-style: oblique;
+  font-weight: bolder;
+}
+#columnwrapper {
+  width: 1000px;
+  margin: auto;
+}
