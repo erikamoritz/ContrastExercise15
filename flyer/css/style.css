@@ -1,31 +1,42 @@
-header {
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Quicksand);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif);
+@import url(https://fonts.googleapis.com/css?family=Abril+Fatface);
+@import url(https://fonts.googleapis.com/css?family=Libre+Baskerville);
+
+html {
+  background-color: #3030C0;
+}
+h1 {
   text-align: center;
-  color: white;
   padding: 20px;
-  border: 2px solid light pink;
-  background-color: black;
   font-weight: bold;
   font-weight: 1000;
+  font-size: 70px;
+  font-family: Libre Baskerville;
+  color: #D2F81E;
 }
 h2 {
   font-style: oblique;
-  color: grey;
-  font-weight:
-
-
+font-size: 30px;
+text-align: center;
+color: #F44500;
+font-family: Libre Baskerville;
 }
 .column {
 float: left;
 width: 48%;
 margin: 2px;
-padding: 5px;
-border: 2px solid black;
-background-color: pink;
+padding: 2px;
+font-family: PT Serif;
+color: #DBF94D;
 }
 h3 {
   font-size: 20px;
   font-style: oblique;
-  font-weight: bolder;
+  font-family: Libre Baskerville;
+  color: #FF8148;
+
 }
 #columnwrapper {
   width: 1000px;
